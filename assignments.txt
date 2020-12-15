@@ -1,0 +1,16 @@
+2;Make a presentation about AI;2021/03/12
+3;Make an application;2020/12/10
+4;Solve a Math problem;2020/04/15
+5;Learn Java;2023/01/20
+70;Make a presentation about AI;2021/03/08
+172;Read a book about OOP;2021/07/24
+258;Read a book about OOP;2021/06/27
+366;Write an essay;2020/01/23
+452;Learn Java;2021/01/17
+590;Write a program to solve integrals;2021/02/19
+694;Make a presentation about AI;2020/08/05
+796;Make a presentation about AI;2020/06/14
+821;Watch a github tutorial;2020/09/22
+939;Write an essay;2021/03/03
+10;Learn JavaScript;2019/11/10
+123;aear;2020/12/12
