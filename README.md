@@ -1,10 +1,16 @@
-# Assignment 10
-## Requirements
-Create a Python module that contains an iterable data structure, a sort method and a filter method, together with complete PyUnit unit tests (100% coverage). The module must be reusable in other projects. Update your code for Assignment6-9 to use the data structure (for storing objects in the repository) and both functions (in the repository or service layer) from this module.
+This is an application that stundets and assignments.
+This applications let's you to:
+  -add/delete/update students
+  -list all students
+  -add/remove/update assignments
+  -list all assignments
+  -grade assignments
+  -order students by an assignemt grade
+  -list students with late assignmets
+  -list best students by grades.
+  -Undo/Redo all of the operations
+I have implementen a GUI for with app using TKINTER, here are a few screenshots of this GUI:
 
-## What you will need to do
-- Implement an iterable data structure. Study the [`__setItem__`](https://docs.python.org/3/reference/datamodel.html#object),`__getitem__`, `__delItem__`, `__next__` and `__iter__` Python methods.
-- Implement a sorting algorithm that was not studied during the lecture or seminar (no bubble sort, cocktail sort, merge sort, insert sort, quicksort). You can use one of shell sort, comb sort, bingo sort, gnome sort, or other sorting method. Prove that you understand the sorting method implemented. The sort function will accept two parameters: the list to be sorted as well as a comparison function used to determine the order between two elements.
-- Implement a filter function that can be used to filter the elements from a list. The function will use 2 parameters: the list to be filtered, and an acceptance function that decided whether a given value passes the filter.
-
-**Deadline is week 12.**
+![Screenshot 2021-11-24 155720](https://user-images.githubusercontent.com/72079607/143253138-d2cc6c05-bda8-47c5-b80c-f0015ed053c0.png)
+![Screenshot 2021-11-24 155930](https://user-images.githubusercontent.com/72079607/143253141-8bcf29a5-cea1-4873-8f22-6fd42df847d6.png)
+![Screenshot 2021-11-24 155841](https://user-images.githubusercontent.com/72079607/143253143-08a825bf-199e-47f2-9103-e875f2bee4aa.png)
